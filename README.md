@@ -1,5 +1,7 @@
 # Projet Laravel : Répertoire des Numéros de Téléphone Frauduleux
 
+auteurs: Fabrice Senécal et Nicolas Fournier
+
 Ce projet consiste à développer un système avec **Laravel 10** pour répertorier les numéros de téléphone frauduleux. Le système fonctionne avec **Laravel Sail** sur Docker et utilise **TailwindCSS** pour le design et la réactivité des pages. Ce projet utilise aussi Blade et Breeze. le code est en grande majorité composé de php.
 
 ## Fonctionnalités principales :
